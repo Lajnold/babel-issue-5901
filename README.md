@@ -1,4 +1,4 @@
-Test case for https://github.com/babel/babel/issues/5901.
+Test case for https://github.com/babel/babel/issues/5901. <br/>
 Later changed to https://github.com/brigand/babel-plugin-flow-react-proptypes/issues/117.
 
 `src/index.js` contains a few functions, each one with a comment saying whether it works. The ones that do not work generate this error  on compilation:
